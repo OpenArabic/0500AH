@@ -1,10 +1,11 @@
-# 0500AH [[ [Re]generated on 2016-04-04 (20:19:55) ]]
+# 0500AH [[ [Re]generated on 2016-04-04 (20:23:46) ]]
 
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...)`
 * `0421Miskawayh.Tajarib (TAGS: ...)`
 * `0427HamzaJurjani.TarikhJurjan (TAGS: ...)`
 * `0429AbuMansurThacalibi.YatimaDahr (TAGS: ...)`
 * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba (TAGS: ...)`
+* `0430AbuNucaymIsbahani.HilyaAwliya (TAGS: ...)`
 * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: ...)`
 * `0430AbuNucaymIsbahani.TarikhIsbahan (TAGS: ...)`
 * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: ...)`
