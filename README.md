@@ -1,12 +1,14 @@
-# 0500AH [[ [Re]generated on 2016-04-06 (07:40:52) ]]
+# 0500AH [[ [Re]generated on 2016-04-07 (08:25:57) ]]
 
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...)`
 * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: ...)`
+* `0412Sulami.TabaqatSufiya (TAGS: ...)`
 * `0421Miskawayh.Tajarib (TAGS: ...)`
 * `0427HamzaJurjani.TarikhJurjan (TAGS: ...)`
 * `0428IbnManjuwayhIsbahani.RijalSahihMuslim (TAGS: ...)`
 * `0429AbuMansurThacalibi.YatimaDahr (TAGS: ...)`
 * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba (TAGS: ...)`
+* `0430AbuNucaymIsbahani.Ducafa (TAGS: ...)`
 * `0430AbuNucaymIsbahani.HilyaAwliya (TAGS: ...)`
 * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: ...)`
 * `0430AbuNucaymIsbahani.TarikhIsbahan (TAGS: ...)`
@@ -22,6 +24,7 @@
 * `0466CabdAzizKattani.DhaylTarikhMawlidCulama (TAGS: ...)`
 * `0474IbnKhalafBaji.TacdilWaTakhrij (TAGS: ...)`
 * `0475IbnMakula.IkmalFiRafcIrtiyab (TAGS: ...)`
+* `0475IbnMakula.TahdhibMustamirr (TAGS: ...)`
 * `0476AbuIshaqShirazi.TabaqatFuqaha (TAGS: BIO,COL)`
 * `0482AbuIshaqHabbal.WafayatMisriyyin (TAGS: ...)`
 * `0487AbuCubaydBakri.MasalikWaMamalik (TAGS: GEO)`
