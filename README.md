@@ -1,4 +1,4 @@
-# 0500AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
+# 0500AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
 
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...,PPE)`
 * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: ...,PPE)`
@@ -24,12 +24,14 @@
 * `0456IbnHazm.FadailAndalus (TAGS: ...,PPE)`
 * `0456IbnHazm.JamharaAnsab (TAGS: ...,PPE)`
 * `0458Bayhaqi.DalailNubuwwa (TAGS: DHB,PPE)`
+* `0460ShaykhTusi.IkhtiyarMacrifaRijal (TAGS: ...,SCI,PPE)`
 * `0460ShaykhTusi.Rijal (TAGS: SHC,...,PPE)`
 * `0463IbnCabdBarr.IsticabFiMacrifaAshab (TAGS: BIO,COL,PPE)`
 * `0463KhatibBaghdadi.GhunyaMultamis  (TAGS: ...,PPE)`
 * `0463KhatibBaghdadi.MuttafiqWaMuftariq (TAGS: ...,PPE)`
 * `0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,COL,DHB,PPE)`
 * `0466CabdAzizKattani.DhaylTarikhMawlidCulama (TAGS: ...,PPE)`
+* `0469IbnHayyanQurtubi.Muqtabas (TAGS: ...,PPE)`
 * `0474IbnKhalafBaji.TacdilWaTakhrij (TAGS: ...,PPE)`
 * `0475IbnMakula.IkmalFiRafcIrtiyab (TAGS: ...,PPE)`
 * `0475IbnMakula.TahdhibMustamirr (TAGS: ...,PPE)`
