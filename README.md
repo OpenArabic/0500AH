@@ -1,10 +1,11 @@
-# 0500AH [[ [Re]generated on 2016-04-08 (15:25:58) ]]
+# 0500AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
 
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...,PPE)`
 * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: ...,PPE)`
 * `0405HakimNaysaburi.TalkhisTarikhNaysabur (TAGS: ...,PPE)`
 * `0405HakimNaysaburi.TasmiyaManAkhrajahum (TAGS: ...,PPE)`
 * `0412Sulami.TabaqatSufiya (TAGS: ...,PPE)`
+* `0421IbnMuhammadMarzuqi.AzminaWaAmkina (TAGS: ...,GEO,PPE)`
 * `0421Miskawayh.Tajarib (TAGS: ...,PPE)`
 * `0427HamzaJurjani.TarikhJurjan (TAGS: ...,PPE)`
 * `0428IbnManjuwayhIsbahani.RijalSahihMuslim (TAGS: ...,PPE)`
@@ -18,6 +19,7 @@
 * `0442Tanukhi.TarikhCulamaNahwiyyin (TAGS: ...,PPE)`
 * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: ...,PPE)`
 * `0448HilalSabi.TuhfaUmara (TAGS: ...,PPE)`
+* `0450Najashi.Rijal (TAGS: ...,BIO,SHC,PPE)`
 * `0456IbnHazm.AsmaKhulafa (TAGS: ...,PPE)`
 * `0456IbnHazm.FadailAndalus (TAGS: ...,PPE)`
 * `0456IbnHazm.JamharaAnsab (TAGS: ...,PPE)`
