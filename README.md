@@ -1,4 +1,4 @@
-# 0500AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
+# 0500AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
 
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: ...,PPE)`
 * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: ...,PPE)`
@@ -17,6 +17,7 @@
 * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: ...,PPE)`
 * `0430AbuNucaymIsbahani.TarikhIsbahan (TAGS: ...,PPE)`
 * `0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna (TAGS: ...,PPE)`
+* `0436HusaynSaymari.AkhbarAbiHanifa (TAGS: ...,PPE)`
 * `0442Tanukhi.TarikhCulamaNahwiyyin (TAGS: ...,PPE)`
 * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: ...,PPE)`
 * `0448HilalSabi.TuhfaUmara (TAGS: ...,PPE)`
@@ -24,6 +25,9 @@
 * `0456IbnHazm.AsmaKhulafa (TAGS: ...,PPE)`
 * `0456IbnHazm.FadailAndalus (TAGS: ...,PPE)`
 * `0456IbnHazm.JamharaAnsab (TAGS: ...,PPE)`
+* `0456IbnHazm.NaqtCarus (TAGS: ...,PPE)`
+* `0456IbnHazm.RisalaFiMaratibCulum (TAGS: ...,BIB,PPE)`
+* `0456IbnHazm.UmmahatKhulafa (TAGS: ...,PPE)`
 * `0458Bayhaqi.DalailNubuwwa (TAGS: DHB,PPE)`
 * `0460ShaykhTusi.IkhtiyarMacrifaRijal (TAGS: ...,SCI,PPE)`
 * `0460ShaykhTusi.Rijal (TAGS: SHC,...,PPE)`
@@ -41,4 +45,4 @@
 * `0487AbuCubaydBakri.MasalikWaMamalik (TAGS: GEO,PPE)`
 * `0488IbnFutuhHumaydi.JadhwaMuqtabis (TAGS: ...,PPE)`
 * `0498AbuCaliJayyani.AlqabSahaba (TAGS: ...,PPE)`
-* `0498AbuCaliJayyani.TaqyidMuhmal`
+* `0498AbuCaliJayyani.TaqyidMuhmal (TAGS: ...,PPE)`
