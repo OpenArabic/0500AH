@@ -1,4 +1,4 @@
-# 0500AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]
+# 0500AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]
 
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500,PPE,_BULDAN,_TABAQAT,_TARAJIM,_TARIKH)`
 * `0405AbuFadlHarawi.MucjamFiMushtabah (TAGS: CENT0500,PPE,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
@@ -35,6 +35,7 @@
 * `0463IbnCabdBarr.IsticabFiMacrifaAshab (TAGS: BIO,CENT0500,COL,PPE,_HADITH,_SUNNI,_TABAQAT,_TARAJIM)`
 * `0463KhatibBaghdadi.GhunyaMultamis (TAGS: CENT0500,PPE,_HADITH,_TABAQAT,_TARAJIM)`
 * `0463KhatibBaghdadi.MuttafiqWaMuftariq (TAGS: CENT0500,PPE,_TABAQAT,_TARAJIM)`
+* `0463KhatibBaghdadi.TalkhisMutashabih (TAGS: CENT0500,_HADITH,_MISC,_MUSTALAHAT,_TABAQAT,_TARAJIM)`
 * `0463KhatibBaghdadi.TarikhBaghdad (TAGS: BIO,CENT0500,COL,DHB,PPE,_BULDAN,_HADITH,_SUNNI,_TABAQAT,_TARAJIM,_TARIKH)`
 * `0466CabdAzizKattani.DhaylTarikhMawlidCulama (TAGS: CENT0500,PPE,_HADITH,_TABAQAT,_TARAJIM)`
 * `0469IbnHayyanQurtubi.Muqtabas (TAGS: CENT0500,PPE,_BULDAN,_TARIKH)`
