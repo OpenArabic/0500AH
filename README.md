@@ -1,4 +1,4 @@
-# 0500AH [[ [Re]generated on 2016-05-21 (14:23:34) ]]
+# 0500AH [[ [Re]generated on 2016-05-21 (19:21:33) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500,_HADITH,_MACAJIM,_MASANID,_TABAQAT,_TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500,PPE,_BULDAN,_TABAQAT,_TARAJIM,_TARIKH)`
@@ -7,6 +7,7 @@
 * `0405HakimNaysaburi.TasmiyaManAkhrajahum (TAGS: CENT0500,PPE,_HADITH,_TABAQAT,_TARAJIM)`
 * `0409CabdGhaniAzdi.KitabMutawarin (TAGS: CENT0500,_TARIKH)`
 * `0412Sulami.TabaqatSufiya (TAGS: CENT0500,PPE,_TABAQAT,_TARAJIM,_TARIKH,_WAFAYAT)`
+* `0418WazirMaghribi.AdabKhawas (TAGS: CENT0500,_ADAD,_BALAGHA,_MISC)`
 * `0418WazirMaghribi.Inas (TAGS: CENT0500,GEN,PPE,_ANSAB,_TARIKH)`
 * `0421IbnMuhammadMarzuqi.AzminaWaAmkina (TAGS: CENT0500,GEO,PPE,_ADAD,_BALAGHA,_GHARIB,_MACAJIM,_MASAIL,_MUSTALAHAT)`
 * `0421Miskawayh.Tajarib (TAGS: CENT0500,PPE,_TARIKH)`
