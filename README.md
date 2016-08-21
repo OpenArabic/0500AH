@@ -51,13 +51,15 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (2)
+
+- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 
 
 
-
-# 0500AH [[ [Re]generated on 2016-08-19 (13:43:35) ]]
+# 0500AH [[ [Re]generated on 2016-08-21 (20:32:00) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh `
     * TAGS: CENT0500,_HADITH,_MACAJIM,_MASANID,_TABAQAT,_TARAJIM
