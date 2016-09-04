@@ -1,11 +1,11 @@
 ## Status Report
  
-* 63 titles
-* 35,268,878 words
-* 190,856 logical units
+* 64 titles
+* 36,604,320 words
+* 205,308 logical units
 * 52,629 bios
 
-### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
+### `*.inProgress` (8 titles: 9,841,252 words; 50,158 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
@@ -14,9 +14,10 @@
 - `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
 - `0748Dhahabi.MacrifaQurraKibar (97,230 words; 0 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
+- `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (39 titles: 17,971,013 words; 77,757 units; 1,194 bios)
+### `*.completed` (38 titles: 17,863,110 words; 76,401 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,122 words; 301 units; 0 bios)`
@@ -24,7 +25,6 @@
 - `0403IbnFaradi.TarikhCulamaAndalus (118,911 words; 1,977 units; 0 bios)`
 - `0405HakimNaysaburi.TalkhisTarikhNaysabur (32,641 words; 2,522 units; 0 bios)`
 - `0412Sulami.TabaqatSufiya (68,554 words; 193 units; 0 bios)`
-- `0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)`
 - `0430AbuNucaymIsbahani.HilyaAwliya (1,188,077 words; 678 units; 0 bios)`
 - `0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 0 bios)`
 - `0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 0 bios)`
@@ -59,12 +59,13 @@
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
 
 
-### `*.mARkdown` (17 titles: 8,792,055 words; 77,393 units; 51,435 bios)
+### `*.mARkdown` (18 titles: 8,899,958 words; 78,749 units; 52,628 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
 - `0355MuhammadKindi.WulatMisr (50,998 words; 132 units; 128 bios)`
 - `0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,503 words; 701 units; 683 bios)`
+- `0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)`
 - `0561Samcani.Ansab (827,145 words; 4,951 units; 0 bios)`
 - `0561Samcani.Ansab (879,572 words; 5,063 units; 0 bios)`
 - `0578IbnBashkuwal.Sila (140,896 words; 1,725 units; 1,543 bios)`
@@ -82,7 +83,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-09-04 (11:09:36) ]]
+# 0500AH [[ [Re]generated on 2016-09-04 (21:16:22) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
