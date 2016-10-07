@@ -103,7 +103,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-09-28 (12:33:36) ]]
+# 0500AH [[ [Re]generated on 2016-10-07 (13:01:28) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -112,6 +112,11 @@
 * `0405HakimNaysaburi.TasmiyaManAkhrajahum (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0409CabdGhaniAzdi.KitabMutawarin (TAGS: CENT0500, _TARIKH)`
 * `0412Sulami.TabaqatSufiya (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0413ShaykhMufid.AhkamNisa (TAGS: CENT0500, _BEFORE800, _FIQH, _SHICI)`
+* `0413ShaykhMufid.Amali (TAGS: CENT0500, _HADITH, _SHICI)`
+* `0413ShaykhMufid.Irshad (TAGS: CENT0500, _HADITH, _SHICI)`
+* `0413ShaykhMufid.MasarShica (TAGS: CENT0500, _HADITH, _SHICI)`
+* `0413ShaykhMufid.Muqnica (TAGS: CENT0500, _BEFORE800, _FIQH, _SHICI)`
 * `0418WazirMaghribi.AdabKhawas (TAGS: CENT0500, _ADAB, _BALAGHA, _MISC)`
 * `0418WazirMaghribi.Inas (TAGS: CENT0500, GEN, PPE, _ANSAB, _TARIKH)`
 * `0421IbnMuhammadMarzuqi.AzminaWaAmkina (TAGS: CENT0500, GEO, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
