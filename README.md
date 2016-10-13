@@ -106,7 +106,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-10-13 (13:30:06) ]]
+# 0500AH [[ [Re]generated on 2016-10-14 (00:22:56) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -133,6 +133,7 @@
 * `0430AbuNucaymIsbahani.Ducafa (TAGS: CENT0500, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0430AbuNucaymIsbahani.HilyaAwliya (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0430AbuNucaymIsbahani.MajlisMinAmali (TAGS: CENT0500, _AJZA, _AMALI, _HADITH, _MAJALIS, _TARAJIM)`
 * `0430AbuNucaymIsbahani.TarikhIsbahan (TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0430AbuNucaymIsbahani.TasmiyaMaIntahaIlayna (TAGS: CENT0500, PPE, _AJZA, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0436HusaynSaymari.AkhbarAbiHanifa (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
