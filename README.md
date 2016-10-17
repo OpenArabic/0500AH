@@ -106,7 +106,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
+# 0500AH [[ [Re]generated on 2016-10-17 (13:25:40) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -157,6 +157,7 @@
 * `0458Bayhaqi.Ictiqad (TAGS: CENT0500, _AJZA, _CAQAID, _HADITH, _MILAL)`
 * `0460ShaykhTusi.IkhtiyarMacrifaRijal (TAGS: CENT0500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `0460ShaykhTusi.Rijal (TAGS: CENT0500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
+* `0461IbnHusaynSughdi.NutafFifatawa (TAGS: CENT0500, _FIQH, _HANAFI)`
 * `0463IbnCabdBarr.AdabMujalasa (TAGS: CENT0500, _ADAB, _ADHKAR, _AKHLAQ, _HADITH, _MISC, _RAQAIQ, _SUNNI)`
 * `0463IbnCabdBarr.BahjatMajalis (TAGS: CENT0500, _ADAB, _ADHKAR)`
 * `0463IbnCabdBarr.Durar (TAGS: CENT0500, PPE, _ASHAB, _HADITH, _SHAMAIL, _SIRA, _SUNNI)`
