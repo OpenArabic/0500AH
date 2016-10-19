@@ -106,7 +106,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-10-17 (13:25:40) ]]
+# 0500AH [[ [Re]generated on 2016-10-19 (14:30:34) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -122,14 +122,36 @@
 * `0413ShaykhMufid.Irshad (TAGS: CENT0500, _HADITH, _SHICI)`
 * `0413ShaykhMufid.MasarShica (TAGS: CENT0500, _HADITH, _SHICI)`
 * `0413ShaykhMufid.Muqnica (TAGS: CENT0500, _BEFORE800, _FIQH, _SHICI)`
+* `0414AbuHayyanTawhidi.AkhlaqWazirayn (TAGS: CENT0400, _ADAB, _BALAGHA, _TARAJIM, _TARIKH)`
+* `0414AbuHayyanTawhidi.Basair (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0414AbuHayyanTawhidi.Imtac (TAGS: CENT0400, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0414AbuHayyanTawhidi.Muqabasat (TAGS: CENT0400, _ADAB, _BALAGHA)`
+* `0414AbuHayyanTawhidi.Sadaqa (TAGS: CENT0400, _ADAB, _AKHLAQ, _BALAGHA, _MISC, _SULUK)`
 * `0418WazirMaghribi.AdabKhawas (TAGS: CENT0500, _ADAB, _BALAGHA, _MISC)`
 * `0418WazirMaghribi.Inas (TAGS: CENT0500, GEN, PPE, _ANSAB, _TARIKH)`
 * `0421IbnMuhammadMarzuqi.AzminaWaAmkina (TAGS: CENT0500, GEO, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0421Miskawayh.Tajarib (TAGS: CENT0500, PPE, _TARIKH)`
 * `0427HamzaJurjani.TarikhJurjan (TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0428IbnManjuwayhIsbahani.RijalSahihMuslim (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0429AbuMansurThacalibi.AhsanMaSamictu (TAGS: CENT0500, _ADAB, _BALAGHA)`
+* `0429AbuMansurThacalibi.Diwan (TAGS: _SHICR_CABBASI, _CENT00NO, _SHICR)`
+* `0429AbuMansurThacalibi.DurarHikm (TAGS: CENT0500, _ADAB, _ADHKAR, _RAQAIQ)`
+* `0429AbuMansurThacalibi.FiqhLugha (TAGS: CENT0500, _ADAB, _BALAGHA, _FASAHA, _LUGHA)`
+* `0429AbuMansurThacalibi.IcjazWaIjaz (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _FASAHA)`
+* `0429AbuMansurThacalibi.KhassKhass (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _FASAHA)`
+* `0429AbuMansurThacalibi.LataifWaZaraif (TAGS: CENT0500, _ADAB, _BALAGHA)`
+* `0429AbuMansurThacalibi.LubabAdab (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _FASAHA)`
+* `0429AbuMansurThacalibi.Lutf (TAGS: CENT0500, _ADAB, _BALAGHA)`
+* `0429AbuMansurThacalibi.ManGhabaCanhuMutrib (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0429AbuMansurThacalibi.Muntahal (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _MISC)`
+* `0429AbuMansurThacalibi.MutanabbiWaMaLahu (TAGS: CENT0500, _ADAB, _BALAGHA)`
+* `0429AbuMansurThacalibi.Rasail (TAGS: CENT0500, _ADAB, _BALAGHA, _MISC)`
+* `0429AbuMansurThacalibi.Shakwa (TAGS: CENT0500, _ADAB, _BALAGHA)`
+* `0429AbuMansurThacalibi.SihrBalagha (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _FASAHA)`
+* `0429AbuMansurThacalibi.TahsinQabih (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0429AbuMansurThacalibi.Tamthil (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0429AbuMansurThacalibi.ThimarQulub (TAGS: CENT0500, SBS, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
 * `0429AbuMansurThacalibi.YatimaDahr (TAGS: CENT0500, PPE, _ADAB, _SHICR, _TABAQAT, _TARAJIM, _TARIKH)`
-* `0429Thacalibi.ThimarQulub (TAGS: CENT0500, SBS, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
 * `0430AbuNucaymIsbahani.DhikrManIsmuhuShucba (TAGS: CENT0500, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0430AbuNucaymIsbahani.Ducafa (TAGS: CENT0500, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0430AbuNucaymIsbahani.HilyaAwliya (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
