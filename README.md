@@ -114,7 +114,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-11-01 (16:59:19) ]]
+# 0500AH [[ [Re]generated on 2016-11-03 (00:32:50) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -189,6 +189,14 @@
 * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: CENT0500, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
 * `0448HilalSabi.TuhfaUmara (TAGS: CENT0500, PPE, _TARAJIM, _TARIKH)`
 * `0449AbuCalaMacarri.Diwan (TAGS: CENT0500, _SHICR_CABBASI, _SHICR)`
+* `0450AbuHasanMawardi.AclamNubuwwa (TAGS: CENT0500, _ASHAB, _CAQAID, _SHAMAIL, _SIRA)`
+* `0450AbuHasanMawardi.AdabDunyaWaDin (TAGS: CENT0500, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
+* `0450AbuHasanMawardi.AhkamSultaniyya (TAGS: CENT0500, _QADA, _SIYASA)`
+* `0450AbuHasanMawardi.DurarSuluk (TAGS: CENT0500, _QADA, _SIYASA)`
+* `0450AbuHasanMawardi.HawiKabir (TAGS: CENT0500, _FIQH, _SHAFICI)`
+* `0450AbuHasanMawardi.IqnacFiFiqh (TAGS: CENT0500, _FIQH, _SHAFICI)`
+* `0450AbuHasanMawardi.NukatWaCuyun (TAGS: CENT0500, _CULUM, _QURAN, _TAFSIR)`
+* `0450AbuHasanMawardi.TashilNazar (TAGS: CENT0500, _QADA, _SIYASA)`
 * `0450Najashi.Rijal (TAGS: BIO, CENT0500, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `0456IbnHazm.AkhlaqWaSiyar (TAGS: CENT0500, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0456IbnHazm.AsmaKhulafa (TAGS: CENT0500, PPE, _TARAJIM, _TARIKH)`
