@@ -29,7 +29,23 @@ line 42 misses the header "muqaddima al-mu'allif"
 
 224 / p. 13, should be mimmaa not maa
 
-Until 345 / p. 21
+1056 / 73, incomplete title
+
+1373/99 incomplete title
+
+1508/109 incomplete title
+
+1911 / 141 digitzed version had it as a sub-title
+
+3604 typos in the digital version. I didn't correct them.
+
+5049 much longer title than in edition
+
+5189 reverse words
+
+5206 reversed wording
+
+5383 digitzed version forgot the word fii
 
 ## 5. ...
 
