@@ -46,7 +46,6 @@ Type your response here.
 
 3688 not in edition
 
-Until 3977 / 200
 
 ## 5. ...
 
