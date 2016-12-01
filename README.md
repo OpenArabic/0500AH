@@ -138,7 +138,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-12-01 (13:36:39) ]]
+# 0500AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -385,6 +385,7 @@
 * `0463KhatibBaghdadi.FaslLiWaslMudrajFiNaql (TAGS: CENT0500, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0463KhatibBaghdadi.GhunyaMultamis (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0463KhatibBaghdadi.HadithSittaMinTabicin (TAGS: CENT0500, _AJZA, _HADITH, _TARAJIM)`
+* `0463KhatibBaghdadi.HadithSittaMinTabicin (TAGS: CENT0500, _HADITH, _SUNNI)`
 * `0463KhatibBaghdadi.IqtidaCilmCamal (TAGS: CENT0500, _AJZA, _AKHLAQ, _CULUM, _FIQH, _HADITH, _MASAIL, _SUNNI, _USUL)`
 * `0463KhatibBaghdadi.JamicLiAkhlaqRawiWaAdabSamic (TAGS: CENT0500, _CULUM, _HADITH, _MISC, _MUSTALAHAT)`
 * `0463KhatibBaghdadi.JuzTuruqHadithIbnCumarFiTaraiHilal (TAGS: CENT0500, _AJZA, _HADITH, _TARAJIM)`
@@ -394,8 +395,10 @@
 * `0463KhatibBaghdadi.MuttafiqWaMuftariq (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM)`
 * `0463KhatibBaghdadi.MuwaddihAwham (TAGS: CENT0500, _CULUM, _HADITH, _MUSTALAHAT)`
 * `0463KhatibBaghdadi.NasihatAhlHadith (TAGS: CENT0500, _AJZA, _CULUM, _HADITH, _TARAJIM)`
+* `0463KhatibBaghdadi.NasihatAhlHadith (TAGS: CENT0500, _HADITH, _SUNNI)`
 * `0463KhatibBaghdadi.QawlFiCilmNujum (TAGS: CENT0500, _BUHUTH, _MASAIL)`
 * `0463KhatibBaghdadi.RihlaFiTalabCilm (TAGS: CENT0500, _AJZA, _HADITH)`
+* `0463KhatibBaghdadi.RihlaFiTalabCilm (TAGS: CENT0500, _HADITH, _SUNNI)`
 * `0463KhatibBaghdadi.SabiqWaLahiq (TAGS: CENT0500, _CULUM, _HADITH)`
 * `0463KhatibBaghdadi.SharafAshabHadith (TAGS: CENT0500, _CULUM, _HADITH, _MISC, _MUSTALAHAT)`
 * `0463KhatibBaghdadi.TalkhisMutashabih (TAGS: CENT0500, _HADITH, _MISC, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
