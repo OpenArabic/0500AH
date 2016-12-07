@@ -138,7 +138,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-12-01 (16:28:20) ]]
+# 0500AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -210,6 +210,7 @@
 * `0421Miskawayh.Tajarib (TAGS: CENT0500, PPE, _TARIKH)`
 * `0427HamzaJurjani.Sualat (TAGS: CENT0500, _CILAL, _SUALAT)`
 * `0427HamzaJurjani.TarikhJurjan (TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0427IbnMuhammadThacalibi.KashfWaBayan (TAGS: CENT0500, _CHRONOMULTIPLE, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0428IbnManjuwayhIsbahani.RijalSahihMuslim (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0428IbnSina.IsharatWaTanbihat (TAGS: CENT0500, _CAQAID, _MILAL, _MISC, _RUDUD)`
 * `0428IbnSina.Mantiq (TAGS: CENT0500, _ADAB, _MUSTALAHAT, _NAHW, _SARF)`
@@ -261,6 +262,7 @@
 * `0430AbuNucaymIsbahani.TasmiyyaMaIntahaIlaynaMinRuwat (TAGS: CENT0500, PPE, _AJZA, _HADITH, _TARAJIM)`
 * `0430AbuNucaymIsbahani.TibbNabawi (TAGS: CENT0500, _HADITH, _TIBB)`
 * `0430AbuNucaymIsbahani.TuruqHadithInnaLillah99Isman (TAGS: CENT0500, _AJZA, _CAQAID, _HADITH, _SUNNI, _TARAJIM)`
+* `0435MuhallabAndalusi.MukhtasarNasih (TAGS: CENT0500, _HADITH, _SHARH)`
 * `0436HusaynSaymari.AkhbarAbiHanifa (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0440AbuRayhanBiruni.TahqiqMaLilHind (TAGS: CENT0500, _BULDAN, _CAQAID, _FIRAQ, _JUGHRAFIYA, _MILAL, _RIHLAT)`
 * `0442Tanukhi.TarikhCulamaNahwiyyin (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -281,6 +283,9 @@
 * `0446AbuYaclaKhalili.IrshadFiMacrifaCulama (TAGS: CENT0500, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
 * `0448HilalSabi.TuhfaUmara (TAGS: CENT0500, PPE, _TARAJIM, _TARIKH)`
 * `0449AbuCalaMacarri.Diwan (TAGS: CENT0500, _SHICR_CABBASI, _SHICR)`
+* `0449AbuCalaMacarri.RisalatMalaika (TAGS: CENT0500, _NAHW, _SARF)`
+* `0449AbuCalaMacarri.RisalatMalaika (TAGS: CENT0500, _NAHW, _SARF)`
+* `0449AbuCalaMacarri.RisalatSahilWaShajih (TAGS: CENT0500, _ADAB, _BALAGHA)`
 * `0450AbuHasanMawardi.AclamNubuwwa (TAGS: CENT0500, _ASHAB, _CAQAID, _SHAMAIL, _SIRA)`
 * `0450AbuHasanMawardi.AdabDunyaWaDin (TAGS: CENT0500, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0450AbuHasanMawardi.AhkamSultaniyya (TAGS: CENT0500, _QADA, _SIYASA)`
@@ -411,15 +416,21 @@
 * `0475IbnMakula.IkmalFiRafcIrtiyab (TAGS: CENT0500, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0475IbnMakula.TahdhibMustamirr (TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
 * `0476AbuIshaqShirazi.TabaqatFuqaha (TAGS: BIO, CENT0500, COL, PPE, _FIQH, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0480IbnHilalSabi.HafawatNadira (TAGS: CENT0500, _ADAB, _BALAGHA)`
 * `0482AbuIshaqHabbal.WafayatMisriyyin (TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0485NizamMulkWazir.MajlisanMinAmali (TAGS: CENT0500, _AJZA, _AMALI, _HADITH, _MAJALIS, _TARAJIM)`
 * `0485NizamMulkWazir.MajlisanMinAmali (TAGS: CENT0500, _AJZA, _HADITH)`
 * `0485NizamMulkWazir.SiyasatNama (TAGS: CENT0500, _MISC, _QADA, _SIYASA)`
 * `0487AbuCubaydBakri.MasalikWaMamalik (TAGS: CENT0500, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `0487AbuCubaydBakri.MucjamMaIstacjama (TAGS: CENT0500, _BULDAN, _FAHARIS, _GHARIB, _JUGHRAFIYA, _LUGHA, _MACAJIM, _MUSTALAHAT, _NAHW, _RIHLAT, _SARF)`
+* `0488IbnFutuhHumaydi.AkhbarWaAshcar (TAGS: CENT0500, _AJZA, _HADITH)`
 * `0488IbnFutuhHumaydi.JadhwaMuqtabis (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0488IbnFutuhHumaydi.JamcBaynaSahihayn (TAGS: CENT0500, _HADITH, _MAJMUCAT, _SAHIH, _TAKHRIJ, _TARAJIM)`
+* `0488IbnFutuhHumaydi.Tadhkira (TAGS: CENT0500, _AJZA, _HADITH)`
+* `0488IbnFutuhHumaydi.TafsirGharib (TAGS: CENT0500, _FIQH, _GHARIB, _HADITH, _MACAJIM, _MUSTALAHAT)`
 * `0498AbuCaliJayyani.AlqabSahaba (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0498AbuCaliJayyani.TaqyidMuhmal (TAGS: CENT0500, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
+* `0499IbnBattalQurtubi.SharhSahihBukhari (TAGS: CENT0500, _HADITH, _SHARH, _TARAJIM)`
 * `0499IbnHusaynJurjani.TartibAmali (TAGS: CENT0500, _AJZA, _HADITH, _TARAJIM)`
 
 
