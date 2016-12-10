@@ -138,7 +138,7 @@
 
 
 
-# 0500AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
+# 0500AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
 
 * `0402MuhammadSaydawi.MucjamShuyukh (TAGS: CENT0500, _HADITH, _MACAJIM, _MASANID, _TABAQAT, _TARAJIM)`
 * `0403IbnFaradi.TarikhCulamaAndalus (TAGS: CENT0500, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
@@ -147,6 +147,7 @@
 * `0405HakimNaysaburi.Mustadrak (TAGS: CENT0500, _FIQH, _HADITH, _SAHIH, _SUNNI, _TARAJIM)`
 * `0405HakimNaysaburi.TalkhisTarikhNaysabur (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM)`
 * `0405HakimNaysaburi.TasmiyaManAkhrajahum (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0408IbnCabdCazizTaymi.JuzHadith (TAGS: CENT0500, _AJZA, _HADITH)`
 * `0409CabdGhaniAzdi.KitabMutawarin (TAGS: CENT0500, _TARIKH)`
 * `0410IbnMardawayh.ThalathaMajalis (TAGS: CENT0500, _AJZA, _AMALI, _HADITH, _MAJALIS, _TARAJIM)`
 * `0412Sulami.TabaqatSufiya (TAGS: CENT0500, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
@@ -208,6 +209,7 @@
 * `0421IbnMuhammadMarzuqi.AzminaWaAmkina (TAGS: CENT0500, GEO, PPE, _ADAB, _BALAGHA, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0421IbnMuhammadMarzuqi.SharhDiwanHamasa (TAGS: CENT0500, _ADAB, _ADAB, _BALAGHA, _SHICR)`
 * `0421Miskawayh.Tajarib (TAGS: CENT0500, PPE, _TARIKH)`
+* `0425RaqiqQayruwani.QutbSurur (TAGS: CENT0500, _ADAB, _BALAGHA, _MISC)`
 * `0427HamzaJurjani.Sualat (TAGS: CENT0500, _CILAL, _SUALAT)`
 * `0427HamzaJurjani.TarikhJurjan (TAGS: CENT0500, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0427IbnMuhammadThacalibi.KashfWaBayan (TAGS: CENT0500, _CHRONOMULTIPLE, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
@@ -250,6 +252,7 @@
 * `0430AbuNucaymIsbahani.JuzAhadithCanAbiCaliSawwaf (TAGS: CENT0500, _AJZA, _HADITH, _TARAJIM)`
 * `0430AbuNucaymIsbahani.MacrifaSahaba (TAGS: CENT0500, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0430AbuNucaymIsbahani.MajlisMinAmali (TAGS: CENT0500, _AJZA, _AMALI, _HADITH, _MAJALIS, _TARAJIM)`
+* `0430AbuNucaymIsbahani.MasanidAbiYahyaKufi (TAGS: CENT0200, CENT0500, _AJZA, _CHRONOMULTIPLE, _HADITH, _SUNNI, _TARAJIM)`
 * `0430AbuNucaymIsbahani.MuntakhabMinHadithYunusIbnCubayd (TAGS: CENT0500, _HADITH, _MAKHTUTAT)`
 * `0430AbuNucaymIsbahani.MuntakhabMinShucara (TAGS: CENT0500, _AJZA, _HADITH)`
 * `0430AbuNucaymIsbahani.MusnadAbiHanifa (TAGS: CENT0500, _FIQH, _HADITH, _HANAFI, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
